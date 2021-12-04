@@ -1,0 +1,26 @@
+{
+  "name": "react-native-booster-ui",
+  "version": "1.0.0",
+  "description": "Booster UI for React Native, with every component with all in one feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawaziatech/react-native-booster-ui.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Sandeep Jaiswal <thisisjaiswal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawaziatech/react-native-booster-ui/issues"
+  },
+  "homepage": "https://github.com/lawaziatech/react-native-booster-ui#readme"
+}
