@@ -1,6 +1,6 @@
 {
   "name": "react-native-booster-ui",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Booster UI for React Native, with every component with all in one feature",
   "main": "index.js",
   "scripts": {
