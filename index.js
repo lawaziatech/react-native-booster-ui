@@ -1,2 +1,4 @@
 import BoosterText from './src/BoosterText';
-export { BoosterText };
+import BoosterImage from './src/BoosterImage';
+
+export { BoosterText, BoosterImage };
